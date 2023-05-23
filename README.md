@@ -6,7 +6,7 @@ Hi, I'm MOHAMED RASHID
 
 <img src="https://github.com/mohamedrashid89/MOHAMED-RASHID/assets/131651353/70bbe9da-e9a7-454e-994f-0dbd0294d942">
 
-# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm RIBIN&nbsp;
+# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm MOHAMED RASHID&nbsp;
 
 
 
