@@ -10,19 +10,6 @@ Hi, I'm MOHAMED RASHID
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RIBINZX&label=Profile%20views&color=0e75b6&style=flat" alt="RIBINZX" /> </p>
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RIBINZX" alt="RIBINZX" /></a> </p>
-
-<p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RIBINZX&show_icons=true&theme=dark&locale=en&layout=compact" alt="RIBINZX" /></p>
-
-<p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RIBINZX&show_icons=true&theme=dark&locale=en" alt="RIBINZX" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RIBINZX&theme=dark" alt="RIBINZX" /></p>
-</p>
 
 - 🔭 I’m currently working on [MOHAMEDRASHID] (https://github.com/mohamedrashid89)
 
