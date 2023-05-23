@@ -25,12 +25,12 @@ Hi, I'm MOHAMED RASHID
 *CLICK THE LOGO TO VISIT THE REPO 👇🏻👇🏻👇*
 
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=RIBINZX&repo=RIBINZX&theme=dark)](https://github.com/RIBINZX)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedrashid89&repo=RIBINZX&theme=dark)](https://github.com/RIBINZX)
 
 
 
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=RIBINZX&repo=RIBINZX&theme=dark)](https://github.com/RIBINZX)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedrashid89&repo=RIBINZX&theme=dark)](https://github.com/RIBINZX)
 
 
 
@@ -38,7 +38,7 @@ Hi, I'm MOHAMED RASHID
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=RIBINZX)
+![Github Trophy](https://github-profile-trophy.vercel.app/?usernam=mohamedrashid89)
 
 </details>
 
