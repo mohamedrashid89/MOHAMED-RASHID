@@ -25,12 +25,12 @@ Hi, I'm MOHAMED RASHID
 *CLICK THE LOGO TO VISIT THE REPO 👇🏻👇🏻👇*
 
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedrashid89&repo=RIBINZX&theme=dark)](https://github.com/RIBINZX)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedrashid89&repo=RIBINZX&theme=dark)](https://github.com/mohamedrashid89)
 
 
 
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedrashid89&repo=RIBINZX&theme=dark)](https://github.com/RIBINZX)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedrashid89&repo=RIBINZX&theme=dark)](https://github.com/mohamedrashid89)
 
 
 
